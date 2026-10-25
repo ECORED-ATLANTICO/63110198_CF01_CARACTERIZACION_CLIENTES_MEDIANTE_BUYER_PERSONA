@@ -15,7 +15,7 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/intro.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
         p Comprender el comportamiento del consumidor constituye el punto de partida para identificar clientes potenciales y orientar las estrategias comerciales hacia mercados con mayores oportunidades de éxito.
-        .bg-secundario-s5.p-4.rounded-3.py-3.mb-3
+        .bg-secundario-s5.p-4.rounded-4.py-3.mb-3
           .row.justify-content-center.align-items-center
             .col-lg-10.p-0
               p.mb-0 Este componente desarrolla los fundamentos relacionados con el análisis del consumidor, la segmentación de mercados, el perfilamiento comercial y la prospectación, como base para la caracterización estratégica de clientes potenciales.  

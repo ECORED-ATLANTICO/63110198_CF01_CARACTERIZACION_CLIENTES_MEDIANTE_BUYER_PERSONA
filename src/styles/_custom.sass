@@ -60,6 +60,58 @@ figcaption, table caption
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
+.banner-text
+  position: relative
+  border-radius: 10px
+  padding: 20px
+  margin-top: -30px
+  background-color: $color-secundario-s5
+  @media screen and (min-width: $bp-min-md)
+    padding: 20px 30px
+    margin-top: -80px 
 
+.z-2
+  z-index: 2
+  position: relative
+
+.fullwidth-bg
+  display: none
+  @media screen and (min-width: 768px)
+    display: block
+  position: relative
+  z-index: 0
+
+  &--1::after
+    top: -100px
+    left: -55px
+    position: absolute
+    content: url('../assets/curso/common/bg-1.png')
+
+.bg-primario-p10
+  background-color: $color-primario-p10
+.bg-contenido-a10
+  background-color: $color-acento-contenido-a10
 .bg-secundario-s5
   background-color: $color-secundario-s5
+.bg-terciario-t5
+  background-color: $color-terciario-t5
+.bg-terciario-t10
+  background-color: $color-terciario-t10
+
+.bg-slider
+  background: url('../assets/curso/common/bg-slider.png')
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+
+.slyder-a
+  &__btn--sigt, &__btn--atrs
+    background-color: $color-acento-botones
+
+  .slyder-a__bullets__item
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+
+.imgw-155
+  width: 155px
+  margin: 0 auto
