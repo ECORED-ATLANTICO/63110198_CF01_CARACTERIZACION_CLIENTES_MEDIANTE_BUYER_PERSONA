@@ -19,10 +19,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Reconociendo el mercado y los clientes potenciales.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> verificar la comprensión de los conceptos, principios y procesos relacionados con el comportamiento del consumidor, la identificación de clientes potenciales, la segmentación de mercados, el mercado objetivo, la prospectación comercial y la estrategia comercial, mediante la resolución de un cuestionario de selección múltiple con única respuesta.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -30,61 +30,58 @@ export default {
         {
           id: 1,
           texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
+            '¿Qué analiza el comportamiento del consumidor durante la compra?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Layer</em>',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto:
-                'Seleccionar y editar capas que identifican márgenes, pistas y componentes.',
+              texto: 'El proceso de decisión del cliente.',
               esCorrecta: true,
             },
             {
+              id: 'b',
+              texto: 'La estructura organizacional de la empresa.',
+              esCorrecta: false,
+            },
+            {
               id: 'c',
-              texto: 'Ajustar automáticamente las pistas de cada componente.',
+              texto: 'Los estados financieros del negocio.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Modificar el tamaño de los componentes.',
+              texto: 'La distribución física del producto.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. <em>Board</em> del <em>software</em> EAGLE.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 2,
-          texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen1.png',
+          texto: '¿Qué caracteriza principalmente a un cliente potencial?',
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Layer</em>',
+              texto: 'Haber realizado varias compras anteriormente.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Auto</em>',
+              texto: 'Presentar afinidad con la oferta comercial.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: '<em>Text</em>',
+              texto: 'Poseer características compatibles con la organización.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: '<em>Route</em>',
+              texto: 'Administrar una organización comercial.',
               esCorrecta: false,
             },
           ],
@@ -93,29 +90,28 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
-          imagen: '@/assets/actividad/imagen1.png',
+          texto: '¿Cuál es el propósito de categorizar clientes potenciales?',
+          imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Para borrar conexiones.',
+              texto: 'Elaborar campañas publicitarias.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Para cambiar de ventana entre <em>Schematic</em> y <em>Board</em>.',
+              texto: 'Organizar clientes según criterios definidos.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Para agregar nuevas capas.',
+              texto: 'Incrementar automáticamente las ventas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Para resaltar conexiones de pines.',
+              texto: 'Facilitar el análisis comercial.',
               esCorrecta: true,
             },
           ],
@@ -125,28 +121,28 @@ export default {
         {
           id: 4,
           texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen1.png',
+            '¿Qué aporta el perfilamiento comercial al análisis del cliente?',
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Text</em>',
+              texto: 'La definición del presupuesto comercial.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Layer</em>',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: '<em>Board</em>',
+              texto: 'La identificación de atributos del cliente.',
               esCorrecta: true,
             },
             {
+              id: 'c',
+              texto: 'La elaboración del portafolio empresarial.',
+              esCorrecta: false,
+            },
+            {
               id: 'd',
-              texto: '<em>Route</em>',
+              texto: 'La administración del inventario disponible.',
               esCorrecta: false,
             },
           ],
@@ -155,30 +151,28 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
-          imagen: '@/assets/actividad/imagen2.png',
+          texto: '¿Para qué sirven las fuentes de información del cliente?',
+          imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Enrutar manualmente las pistas que no se ajustaron automáticamente.',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Resaltar las conexiones de los pines.',
+              texto: 'Diseñar productos industriales.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Obtener información para comprender al consumidor.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'Crear una nueva capa en el diseño.',
+              texto: 'Sustituir el proceso de segmentación.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto:
-                'Cambiar de ventana entre <em>Schematic</em> y <em>Board</em>.',
+              texto: 'Calcular la rentabilidad empresarial.',
               esCorrecta: false,
             },
           ],
@@ -187,29 +181,28 @@ export default {
         },
         {
           id: 6,
-          texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen2.png',
+          texto: '¿Cuál es la finalidad principal de segmentar un mercado?',
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Borrar componentes.',
+              texto: 'Organizar consumidores con características comunes.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Ajustar automáticamente las pistas en cada componente.',
+              texto: 'Elaborar campañas publicitarias digitales.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Crear nuevas conexiones de pines.',
+              texto: 'Diseñar nuevos productos comerciales.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Seleccionar y editar capas.',
+              texto: 'Incrementar automáticamente las ventas.',
               esCorrecta: false,
             },
           ],
@@ -218,29 +211,28 @@ export default {
         },
         {
           id: 7,
-          texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
+          texto: '¿Qué permiten identificar las variables psicográficas?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Colocar los componentes en un solo bloque.',
+              texto: 'La ubicación geográfica del consumidor.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Agrupar los componentes en bloques funcionales.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Alinear todos los terminales a la derecha.',
+              texto: 'El nivel educativo del cliente.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto: 'Los intereses y estilos de vida.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'Colocar los terminales lo más alejados posible.',
+              texto: 'La actividad económica empresarial.',
               esCorrecta: false,
             },
           ],
@@ -249,29 +241,28 @@ export default {
         },
         {
           id: 8,
-          texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
-          imagen: '@/assets/actividad/imagen2.png',
+          texto: '¿Qué analizan principalmente las variables conductuales?',
+          imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'El comportamiento del consumidor frente al mercado.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'La distribución territorial de las empresas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Las características demográficas familiares.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Los recursos financieros de la organización.',
               esCorrecta: false,
             },
           ],
@@ -280,20 +271,29 @@ export default {
         },
         {
           id: 9,
-          texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
-          imagen: '@/assets/actividad/imagen3.png',
+          texto: '¿Qué representa un nicho de mercado?',
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Un mercado internacional especializado.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Un grupo específico dentro de un segmento.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Una estrategia para aumentar ventas.',
               esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Un conjunto de proveedores comerciales.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -301,20 +301,29 @@ export default {
         },
         {
           id: 10,
-          texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
-          imagen: '@/assets/actividad/imagen3.png',
+          texto: '¿En qué se fundamenta seleccionar un público objetivo?',
+          imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'En la intuición del equipo comercial.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'En el tamaño total del mercado.',
               esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'En la información obtenida durante la segmentación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'En el análisis del mercado y los objetivos comerciales.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -323,19 +332,30 @@ export default {
         {
           id: 11,
           texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
-          imagen: '@/assets/actividad/imagen3.png',
+            '¿Cuál es el propósito principal de la prospectación comercial?',
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Elaborar campañas de publicidad institucional.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Identificar clientes potenciales para la gestión comercial.',
               esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Diseñar nuevos productos empresariales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Organizar la estructura administrativa.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -343,20 +363,30 @@ export default {
         },
         {
           id: 12,
-          texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
-          imagen: '@/assets/actividad/imagen3.png',
+          texto: '¿Qué orientan las estrategias de prospectación comercial?',
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'La distribución física de productos.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'La elaboración de presupuestos comerciales.',
               esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'La identificación organizada de oportunidades comerciales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Las acciones dirigidas hacia clientes potenciales.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -364,19 +394,29 @@ export default {
         },
         {
           id: 13,
-          texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
-          imagen: '@/assets/actividad/imagen4.png',
+          texto: '¿Qué permiten los métodos de identificación de prospectos?',
+          imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Reconocer clientes potenciales compatibles con la organización.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Elaborar estrategias de fijación de precios.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Diseñar campañas publicitarias masivas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Definir procesos de contratación empresarial.',
               esCorrecta: false,
             },
           ],
@@ -385,20 +425,29 @@ export default {
         },
         {
           id: 14,
-          texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
+          texto: '¿Para qué sirven los criterios de priorización comercial?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Clasificar productos según su precio.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Establecer el orden de atención de prospectos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Diseñar promociones para nuevos mercados.',
               esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Organizar el inventario empresarial.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -406,19 +455,181 @@ export default {
         },
         {
           id: 15,
+          texto: '¿Qué favorece priorizar adecuadamente clientes potenciales?',
+          imagen: '@/assets/actividad/imagen5.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Reducir el análisis del mercado.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Sustituir la segmentación comercial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Optimizar la utilización de recursos comerciales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Incrementar automáticamente las ventas.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 16,
           texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
+            '¿Qué integra una estrategia comercial dentro de la organización?',
+          imagen: '@/assets/actividad/imagen1.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Los procesos administrativos y financieros.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'El conocimiento del mercado y los clientes potenciales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Las actividades contables de la empresa.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Los procesos de producción industrial.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 17,
+          texto: '¿Qué orientan los objetivos comerciales en una organización?',
+          imagen: '@/assets/actividad/imagen2.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'El diseño del producto final.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'La estructura organizacional.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Las decisiones y acciones comerciales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'La administración del talento humano.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 18,
+          texto: '¿Qué aporta la segmentación a la estrategia comercial?',
+          imagen: '@/assets/actividad/imagen3.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Incrementar automáticamente la rentabilidad empresarial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'El conocimiento para orientar decisiones comerciales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Sustituir el proceso de prospectación comercial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Eliminar la necesidad de analizar clientes potenciales.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 19,
+          texto: '¿Cómo se identifican las oportunidades de mercado?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Mediante decisiones tomadas al azar.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Únicamente por experiencia del vendedor.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'A través del análisis sistemático del mercado.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Exclusivamente mediante campañas publicitarias.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 20,
+          texto:
+            '¿Qué proceso integra el análisis comercial completo del componente?',
+          imagen: '@/assets/actividad/imagen5.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Segmentación, perfilamiento, prospectación y estrategia comercial.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Producción, distribución, inventarios y logística.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Publicidad, contabilidad, impuestos y compras.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Administración financiera, talento humano y manufactura.',
               esCorrecta: false,
             },
           ],
@@ -429,78 +640,6 @@ export default {
       mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
       mensaje_final_reprobado:
         'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
-    },
-    parrafo: {
-      tema: 'Comprendiendo el diseño de presupuestos y estrategias de ahorro',
-      titulo: 'Completar frases',
-      introduccion:
-        '<b> Objetivo:</b> identificar conceptos clave relacionados con el presupuesto personal, la cultura del ahorro y la planificación financiera.',
-      instruccion:
-        'Complete correctamente los enunciados con la palabra que falta según los contenidos estudiados en el componente formativo.',
-      imagen: '@/assets/actividad/imagen1.png',
-      barajarPreguntas: true,
-      textos: [
-        {
-          id: 1,
-          texto:
-            'El [respuesta] personal es una herramienta que permite proyectar ingresos y egresos para mantener la estabilidad económica.',
-          respuesta: 'presupuesto',
-        },
-        {
-          id: 2,
-          texto:
-            'La constancia en el cumplimiento del presupuesto refleja un alto nivel de [respuesta] financiera.',
-          respuesta: 'disciplina',
-        },
-        {
-          id: 3,
-          texto:
-            'Ahorrar no es lo que sobra, sino lo que se [respuesta] guardar antes de gastar.',
-          respuesta: 'planifica',
-        },
-        {
-          id: 4,
-          texto:
-            'Un gasto innecesario que puede eliminarse sin afectar la calidad de vida básica se denomina gasto [respuesta].',
-          respuesta: 'discrecional',
-        },
-        {
-          id: 5,
-          texto:
-            'La cultura del ahorro promueve el uso responsable de los [respuesta] disponibles.',
-          respuesta: 'recursos',
-        },
-        {
-          id: 6,
-          texto:
-            'El estado de [respuesta] personales permite analizar la relación entre ingresos y egresos en un periodo determinado.',
-          respuesta: 'resultados',
-        },
-        {
-          id: 7,
-          texto:
-            'Cuando los ingresos son mayores que los egresos se generan una [respuesta] que puede destinarse al ahorro.',
-          respuesta: 'utilidad',
-        },
-        {
-          id: 8,
-          texto:
-            'Uno de los beneficios de ejecutar un presupuesto es la reducción del [respuesta] financiero.',
-          respuesta: 'estrés',
-        },
-        {
-          id: 9,
-          texto:
-            'Evitar gastos impulsivos y mantener límites presupuestales refleja [respuesta] financiera.',
-          respuesta: 'disciplina',
-        },
-        {
-          id: 10,
-          texto:
-            'Contar con un fondo de [respuesta] permite enfrentar gastos inesperados sin afectar el presupuesto.',
-          respuesta: 'emergencia',
-        },
-      ],
     },
   }),
 }
