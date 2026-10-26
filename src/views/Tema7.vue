@@ -54,7 +54,7 @@
 
     separador
     
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+    #t_7_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 7.1 Características
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
