@@ -36,7 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Comportamiento del consumidor ',
+        titulo: 'Comportamiento del consumidor',
         desarrolloContenidos: true,
         subMenu: [
           {

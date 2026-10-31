@@ -87,12 +87,20 @@ figcaption, table caption
     position: absolute
     content: url('../assets/curso/common/bg-1.png')
 
+  &--2::after
+    top: 0
+    left: -55px
+    position: absolute
+    content: url('../assets/curso/common/bg-2.png')
+
 .bg-primario-p5
   background-color: $color-primario-p5
 .bg-primario-p10
   background-color: $color-primario-p10
 .bg-contenido-a10
   background-color: $color-acento-contenido-a10
+.bg-contenido-a5
+  background-color: $color-acento-contenido-a5
 .bg-secundario-s5
   background-color: $color-secundario-s5
 .bg-secundario-s10
@@ -103,6 +111,8 @@ figcaption, table caption
   background-color: $color-terciario-t5
 .bg-terciario-t10
   background-color: $color-terciario-t10
+.bg-adicional
+  background-color: $color-adicional
 
 .bg-slider
   background: url('../assets/curso/common/bg-slider.png')
@@ -138,6 +148,9 @@ figcaption, table caption
     background-color: $color-acento-botones
     border-color: $color-acento-botones
 
+.imgw-90
+  width: 90px
+  margin: 0 auto
 .imgw-125
   width: 125px
   margin: 0 auto
@@ -147,3 +160,36 @@ figcaption, table caption
 .imgw-155
   width: 155px
   margin: 0 auto
+
+.position-custom
+  position: absolute
+  top: -80px
+  left: 0
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: $color-secundario-s20
+      h4
+        color: $color-sistema-texto
+      &.bg-contenido-a10
+        background-color: $color-secundario-s20
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    padding-top: .9rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 4.7rem ))
+    background-color: $color-secundario-s20
+    font-size: .85em
+    &.bg-contenido-a10
+      background-color: $color-secundario-s20
+
+.accesibilidad
+  z-index: 3

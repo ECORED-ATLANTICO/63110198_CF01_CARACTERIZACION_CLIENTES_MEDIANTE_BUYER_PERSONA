@@ -58,7 +58,7 @@
       h2 7.1 Características
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
-      .col-sm-6.col-lg-3
+      .col-sm-6.col-lg-3.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema7/5.png", alt="" data-aos="fade-up")
       .col-lg-9
@@ -96,7 +96,7 @@
     .row.justify-content-center
       .col-xl-10.bg-terciario-t5.rounded-4.p-4.p-lg-0
         .row.justify-content-center.align-items-center
-          .col-lg-2
+          .col-lg-2.d-none.d-lg-block
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/7.png", alt="" data-aos="fade-up")
           .col-lg-10
@@ -119,7 +119,7 @@
       .col-xl-10
         .bg-terciario-t10.p-4.rounded-4
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/9.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
@@ -131,7 +131,7 @@
       .col-xl-10
         .bg-primario-p10.p-4.rounded-4
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/10.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
@@ -141,7 +141,7 @@
       .col-xl-10
         .bg-contenido-a10.p-4.rounded-4
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/11.png", alt="" data-aos="zoom-in-down")
             .col-lg-10

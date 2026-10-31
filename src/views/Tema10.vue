@@ -37,7 +37,7 @@
       .col-xl-10
         .bg-terciario-t5.p-4.rounded-4.py-3
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-125.mb-4.mb-lg-0(src="@/assets/curso/tema10/4.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
@@ -62,7 +62,7 @@
       .col-xl-10
         .bg-primario-p5.p-4.rounded-4
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema10/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
@@ -73,7 +73,7 @@
       .col-xl-10
         .bg-primario-p10.p-4.rounded-4
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/10.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
@@ -97,7 +97,7 @@
       .col-xl-10
         .bg-terciario-t10.p-4.rounded-4
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/9.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
@@ -107,9 +107,9 @@
 
     .row.justify-content-center
       .col-xl-10
-        .bg-contenido-a10.px-4.rounded-4
+        .bg-contenido-a10.p-4.rounded-4.py-lg-0
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema10/8.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
@@ -133,7 +133,7 @@
       .col-xl-10
         .bg-primario-p10.p-4.rounded-4
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/10.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
@@ -142,7 +142,7 @@
 
     .row.justify-content-center.mb-4.align-items-center
       .col-lg-5
-        .bg-secundario-s20.p-4.rounded-4.py-lg-5
+        .bg-secundario-s20.p-4.rounded-4.py-lg-5.mb-4.mb-lg-0
           p.mb-0 Lo invitamos a consultar el podcast #[strong “Estrategia comercial para la competitividad”], en el que podrá profundizar en la importancia de integrar el análisis del mercado, la planificación y el seguimiento para orientar las decisiones comerciales y fortalecer la competitividad de la organización. 
       .col-lg-7
         .bg-audio.rounded-4.px-4.py-4.py-lg-0
@@ -163,7 +163,7 @@
       .col-xl-10
         .bg-contenido-a10.p-4.rounded-4
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/11.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
