@@ -256,24 +256,6 @@
               h5 Reflexión del capítulo.  
               p.mb-0 La clasificación de las personas nunca debe convertirse en una forma de exclusión. En el ámbito comercial, categorizar clientes significa organizar información para comprender mejor sus necesidades, actuando siempre con objetividad, respeto y responsabilidad en el manejo de los datos.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
 </template>
 
 <script>
