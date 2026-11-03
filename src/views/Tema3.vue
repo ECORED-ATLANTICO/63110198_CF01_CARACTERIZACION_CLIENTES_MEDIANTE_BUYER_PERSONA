@@ -47,30 +47,30 @@
     p Los criterios de categorización corresponden a los elementos utilizados por las organizaciones para establecer cómo serán organizados sus clientes potenciales. Estos criterios permiten construir categorías homogéneas que facilitan el análisis comercial y favorecen la toma de decisiones relacionadas con la prospectación y el diseño de estrategias comerciales. 
 
     .fullwidth-bg.fullwidth-bg--1
-      .row.justify-content-center.z-2.mb-5
-        .col-xl-10
-          .titulo-sexto.color-acento-contenido.mb-4
-            h5 Tabla 5.
-            span Ejemplos de criterios utilizados para categorizar clientes 
-          .tabla-a.color-secundario.tabla-a--text-left
-            table
-              thead
-                tr(style="background-color: #E4FFFB")
-                  th Criterio 
-                  th(colspan="3") Descripción
-              tbody
-                tr(style="background-color: #FFFFFF")
-                  td #[strong Afinidad comercial]
-                  td(colspan="3") Evalúa el grado de correspondencia entre las características del cliente y la oferta de la organización. 
-                tr(style="background-color: #E9EEF5")
-                  td #[strong Nivel de interés]
-                  td(colspan="3") Considera la disposición demostrada por el cliente durante el proceso de acercamiento comercial. 
-                tr(style="background-color: #FFFFFF")
-                  td #[strong Potencial comercial]
-                  td(colspan="3") Permite identificar oportunidades con mayores posibilidades de generar relaciones comerciales futuras. 
-                tr(style="background-color: #E9EEF5")
-                  td #[strong Características comunes]
-                  td(colspan="3") Agrupa clientes que comparten atributos relevantes para el análisis y la planificación comercial. 
+    .row.justify-content-center.z-2.mb-5
+      .col-xl-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Tabla 5.
+          span Ejemplos de criterios utilizados para categorizar clientes 
+        .tabla-a.color-secundario.tabla-a--text-left
+          table
+            thead
+              tr(style="background-color: #E4FFFB")
+                th Criterio 
+                th(colspan="3") Descripción
+            tbody
+              tr(style="background-color: #FFFFFF")
+                td #[strong Afinidad comercial]
+                td(colspan="3") Evalúa el grado de correspondencia entre las características del cliente y la oferta de la organización. 
+              tr(style="background-color: #E9EEF5")
+                td #[strong Nivel de interés]
+                td(colspan="3") Considera la disposición demostrada por el cliente durante el proceso de acercamiento comercial. 
+              tr(style="background-color: #FFFFFF")
+                td #[strong Potencial comercial]
+                td(colspan="3") Permite identificar oportunidades con mayores posibilidades de generar relaciones comerciales futuras. 
+              tr(style="background-color: #E9EEF5")
+                td #[strong Características comunes]
+                td(colspan="3") Agrupa clientes que comparten atributos relevantes para el análisis y la planificación comercial. 
     
     .fullwidth-bg.fullwidth-bg--3
     .row.justify-content-center.align-items-center.z-2
