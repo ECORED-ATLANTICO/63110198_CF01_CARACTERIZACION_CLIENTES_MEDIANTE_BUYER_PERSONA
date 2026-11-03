@@ -52,7 +52,7 @@
         .bg-primario-p5.p-4.rounded-4.mb-3.py-3
           p.mb-0 La identificación de los diferentes tipos de clientes potenciales favorece la asignación eficiente de recursos y la definición de estrategias acordes con las características de cada grupo. Algunos prospectos requieren mayor información antes de tomar una decisión, mientras que otros presentan condiciones que permiten avanzar con mayor rapidez hacia una posible conversión comercial. 
  
-    .row.justify-content-center.z-2.mb-5
+    .row.justify-content-center.z-2
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 2.
@@ -219,7 +219,7 @@
       h2 2.7 Comportamiento de compra
     
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
-      .col-sm-6.col-lg-3
+      .col-sm-6.col-lg-3.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/8.png", alt="" data-aos="zoom-in-down")
       .col-lg-9

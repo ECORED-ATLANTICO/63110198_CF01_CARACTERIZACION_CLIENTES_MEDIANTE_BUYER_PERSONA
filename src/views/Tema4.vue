@@ -112,28 +112,28 @@
         .row.justify-content-center.align-items-center
           .col-lg-7
             h5 Características del cliente.
-            p.mb-0 Describen condiciones generales que permiten reconocer semejanzas entre diferentes clientes potenciales, considerando aspectos relevantes para su clasificación, segmentación y atención comercial. 
+            p.mb-4.mb-lg-0 Describen condiciones generales que permiten reconocer semejanzas entre diferentes clientes potenciales, considerando aspectos relevantes para su clasificación, segmentación y atención comercial. 
           .col-sm-8.col-lg-4
             figure
               img(src="@/assets/curso/tema4/6.png", alt="")
         .row.justify-content-center.align-items-center
           .col-lg-7
             h5 Necesidades identificadas.
-            p.mb-0 Representan las situaciones, requerimientos o problemáticas que pueden ser atendidas mediante la oferta comercial de la organización, permitiendo orientar la propuesta hacia soluciones pertinentes. 
+            p.mb-4.mb-lg-0 Representan las situaciones, requerimientos o problemáticas que pueden ser atendidas mediante la oferta comercial de la organización, permitiendo orientar la propuesta hacia soluciones pertinentes. 
           .col-sm-8.col-lg-4
             figure
               img(src="@/assets/curso/tema4/7.png", alt="")
         .row.justify-content-center.align-items-center
           .col-lg-7
             h5 Intereses comerciales.
-            p.mb-0 Reflejan los aspectos que despiertan mayor atención y afinidad frente a los productos o servicios ofrecidos, facilitando la identificación de oportunidades y la personalización de las acciones comerciales. 
+            p.mb-4.mb-lg-0 Reflejan los aspectos que despiertan mayor atención y afinidad frente a los productos o servicios ofrecidos, facilitando la identificación de oportunidades y la personalización de las acciones comerciales. 
           .col-sm-8.col-lg-4
             figure
               img(src="@/assets/curso/tema4/8.png", alt="")
         .row.justify-content-center.align-items-center
           .col-lg-7
             h5 Comportamiento observado.
-            p.mb-0 Integra información obtenida durante la interacción del cliente con la organización y el mercado, como sus respuestas, decisiones, hábitos de consulta, nivel de participación y acciones frente a la oferta comercial. 
+            p.mb-4.mb-lg-0 Integra información obtenida durante la interacción del cliente con la organización y el mercado, como sus respuestas, decisiones, hábitos de consulta, nivel de participación y acciones frente a la oferta comercial. 
           .col-sm-8.col-lg-4
             figure
               img(src="@/assets/curso/tema4/9.png", alt="")

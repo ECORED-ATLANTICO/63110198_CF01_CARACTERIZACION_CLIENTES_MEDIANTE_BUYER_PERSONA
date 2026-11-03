@@ -470,27 +470,27 @@ export default {
     },
     {
       referencia:
-        'Salesforce España. (2024). <em>¿Qué es un perfil de cliente ideal?</em>',
+        'Salesforce España. (2024). ¿Qué es un perfil de cliente ideal?',
       link: 'https://www.salesforce.com/es/blog/ideal-customer-profile/',
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (1988). <em>Identificación y segmentación de mercados</em> (Serie Senafad. Mercadeo; 2M). Repositorio Institucional SENA.',
+        'Servicio Nacional de Aprendizaje [SENA]. (1988). Identificación y segmentación de mercados (Serie Senafad. Mercadeo; 2M). Repositorio Institucional SENA.',
       link: 'https://repositorio.sena.edu.co/handle/11404/979',
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (2026). <em>El proceso de la venta</em> [Material de formación].',
+        'Servicio Nacional de Aprendizaje [SENA]. (2026). El proceso de la venta [Material de formación].',
       link: 'https://zajuna.sena.edu.co/pdfs/campesena/El%20proceso%20de%20la%20venta-%20digital2.pdf',
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA]. (s. f.). <em>Marketing digital: Consumidores y segmento objetivo, buyer persona e investigación básica de mercados digitales</em>.',
+        'Servicio Nacional de Aprendizaje [SENA]. (s. f.). <em>Marketing</em> digital: Consumidores y segmento objetivo, <em>buyer persona</em> e investigación básica de mercados digitales.',
       link: 'https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Ventas/632201/Contenido/OVA/CF5/index.html',
     },
     {
       referencia:
-        'Shopify. (2024). <em>Perfil de cliente ideal: Cómo definir sus características y cómo crearlo</em>.',
+        'Shopify. (2024). Perfil de cliente ideal: Cómo definir sus características y cómo crearlo.',
       link: 'https://www.shopify.com/es/blog/15731000-define-el-perfil-del-cliente-ideal-de-tu-tienda-virtual',
     },
   ],

@@ -63,7 +63,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema8/4.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        .bg-slider.p-4.mb-4
+        .bg-slider-2.p-4.mb-4
           SlyderA(tipo="b").p-4.bg-white.rounded-4.py-5
             div
               h5 Mercado de consumo

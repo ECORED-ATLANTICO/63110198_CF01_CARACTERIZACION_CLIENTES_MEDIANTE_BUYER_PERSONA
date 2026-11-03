@@ -23,7 +23,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7
         p La segmentación de mercados corresponde al proceso mediante el cual una organización divide un mercado en grupos de clientes que comparten características semejantes. Esta organización facilita el conocimiento del consumidor y permite orientar las acciones comerciales hacia públicos con necesidades e intereses comunes, optimizando el desarrollo de estrategias dirigidas a mercados específicos.
-        .bg-terciario-t5.p-4.rounded-4.py-3
+        .bg-terciario-t5.p-4.rounded-4.py-3.mb-4.mb-lg-0
           p.mb-0 Este proceso constituye un apoyo para la planificación estratégica, ya que permite orientar recursos y esfuerzos hacia grupos claramente definidos. Como resultado, las organizaciones mejoran la comprensión de sus clientes potenciales y disponen de información más precisa para tomar decisiones comerciales.  
       .col-sm-8.col-lg-5
         figure
@@ -47,7 +47,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-10
         p La importancia de la segmentación de mercados radica en su capacidad para facilitar la comprensión del mercado y orientar las acciones comerciales hacia grupos de clientes con características semejantes. Este proceso fortalece la identificación de oportunidades comerciales y contribuye al aprovechamiento eficiente de los recursos organizacionales.  
-        .bg-secundario-s10.p-4.rounded-4.py-3
+        .bg-secundario-s10.p-4.rounded-4.py-3.mb-4.mb-lg-0
           p.mb-0 Al segmentar un mercado, las organizaciones pueden analizar con mayor precisión las necesidades, intereses y comportamientos de los diferentes grupos de consumidores. Esta información permite fundamentar las decisiones comerciales y favorece la construcción de estrategias coherentes con las características del mercado objetivo. 
       .col-sm-4.col-lg-2
         figure
@@ -120,7 +120,7 @@
     .row.justify-content-center.align-items-center.z-2
       .col-lg-7
         p Los criterios de segmentación corresponden a los aspectos utilizados para organizar el mercado en grupos con características comunes. Estos criterios permiten establecer una estructura lógica para analizar los consumidores y facilitan la identificación de segmentos relevantes para los objetivos comerciales de la organización. 
-        .bg-secundario-s10.p-4.rounded-4.py-3
+        .bg-secundario-s10.p-4.rounded-4.py-3.mb-4.mb-lg-0
           p.mb-0 La definición de criterios constituye una etapa fundamental dentro del proceso de segmentación. Cuando estos son coherentes con la realidad del mercado y con los propósitos de la organización, los segmentos obtenidos presentan mayor utilidad para el análisis comercial y permiten desarrollar estrategias dirigidas hacia públicos claramente definidos. 
       .col-sm-8.col-lg-5
         figure
