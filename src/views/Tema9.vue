@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 9
-      h1 Tema 9
+      h1 Prospectación comercial
 
 </template>
 

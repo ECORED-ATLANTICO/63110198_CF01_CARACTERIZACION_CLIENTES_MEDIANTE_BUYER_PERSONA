@@ -7,7 +7,7 @@
         span 5
       h1 Fuentes de información del cliente
 
-      img(data-aos="fade-up", src="@/assets/curso/tema5/1.png", alt="")
+    img(data-aos="fade-up", src="@/assets/curso/tema5/1.png", alt="")
     .row.justify-content-center.z-2
       .col-lg-10.p-4(data-aos="fade-down")
         div.banner-text.shadow.bg-secundario-s5.mb-3
