@@ -37,7 +37,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/7.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Las decisiones comerciales son tan sólidas como la calidad de la información que las respalda. 
 
     separador
@@ -157,7 +157,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema10/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p Una empresa dedicada a la comercialización de equipos para cafeterías participó en una feria empresarial con el propósito de identificar nuevos clientes potenciales. Antes del evento definió qué información necesitaba recopilar: tipo de establecimiento, capacidad de producción, interés en nuevos equipos y principales necesidades operativas.
               p.mb-0 Gracias a esta planificación obtuvo información homogénea de todos los visitantes, facilitando posteriormente la organización de los datos y la construcción de perfiles comerciales para el equipo de ventas. 
 
@@ -193,7 +193,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/11.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p.mb-0 La información del cliente representa una responsabilidad antes que un privilegio. Interpretarla con objetividad, respeto y criterio profesional fortalece la confianza entre las organizaciones y las personas, favoreciendo decisiones comerciales fundamentadas en principios éticos y no únicamente en intereses económicos. 
 
 

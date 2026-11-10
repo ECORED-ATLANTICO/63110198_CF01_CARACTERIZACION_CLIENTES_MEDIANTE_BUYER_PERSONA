@@ -45,7 +45,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/7.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 El verdadero valor del perfilamiento comercial no está en la cantidad de información recopilada, sino en la capacidad para interpretarla estratégicamente. 
 
     separador
@@ -69,7 +69,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/9.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 En contexto. 
+              h5 En contexto
               p Una empresa dedicada a la distribución de equipos para laboratorios implementó procesos de perfilamiento comercial para identificar qué características compartían sus clientes más frecuentes. La información obtenida permitió reorganizar las actividades del equipo comercial y orientar los esfuerzos hacia segmentos con mayor potencial de crecimiento. 
 
     .row.justify-content-center.z-2
@@ -145,7 +145,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/7.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Los atributos comerciales adquieren valor cuando permiten comprender al cliente potencial como un conjunto integrado de características y no como una suma de datos independientes.
 
     separador
@@ -171,7 +171,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema10/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p Una empresa especializada en la distribución de soluciones tecnológicas observó que varios clientes potenciales manifestaban inicialmente interés por determinados productos, pero posteriormente modificaban sus preferencias durante el proceso comercial.  
               p.mb-0 El equipo decidió analizar el comportamiento observado en cada interacción, identificando patrones relacionados con el tipo de organización, las necesidades expresadas y el nivel de información disponible. Los resultados permitieron actualizar los perfiles comerciales y mejorar la planificación de las actividades de prospectación. 
 

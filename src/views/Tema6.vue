@@ -110,7 +110,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/7.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 El objetivo de segmentar no es dividir un mercado, sino comprenderlo para tomar mejores decisiones comerciales. 
 
     separador 
@@ -161,7 +161,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/9.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 En contexto. 
+              h5 En contexto
               p Una empresa dedicada a la comercialización de soluciones de iluminación industrial deseaba ampliar su presencia en el mercado nacional. Inicialmente dirigía sus esfuerzos comerciales a todo tipo de organizaciones, obteniendo resultados poco consistentes. Después de analizar la información disponible, estableció criterios relacionados con la actividad económica, el tamaño de la empresa y las necesidades identificadas durante las visitas comerciales.  
 
     .row.justify-content-center.mb-4
@@ -178,7 +178,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/11.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p.mb-0 Las decisiones comerciales responsables comienzan con un análisis objetivo de la información y con el reconocimiento de la diversidad de las personas. Comprender el mercado exige actuar con transparencia, respeto por los datos y compromiso con la generación de valor para los clientes y la sociedad. 
 
 

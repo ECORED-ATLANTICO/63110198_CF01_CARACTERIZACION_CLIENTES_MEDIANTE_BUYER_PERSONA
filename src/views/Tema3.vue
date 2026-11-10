@@ -37,12 +37,12 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/7.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Categorizar no significa etiquetar clientes; significa organizar información para comprender mejor el mercado y tomar decisiones comerciales más acertadas. 
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.2 Criterios de categorización
+      h2 3.2 Criterios
 
     p Los criterios de categorización corresponden a los elementos utilizados por las organizaciones para establecer cómo serán organizados sus clientes potenciales. Estos criterios permiten construir categorías homogéneas que facilitan el análisis comercial y favorecen la toma de decisiones relacionadas con la prospectación y el diseño de estrategias comerciales. 
 
@@ -192,7 +192,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/9.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 En contexto. 
+              h5 En contexto
               p Una empresa dedicada a la comercialización de soluciones informáticas clasifica diariamente sus prospectos según el nivel de avance del proceso comercial. Esta organización permite distribuir las actividades del equipo comercial y asignar tiempos de seguimiento acordes con las características de cada categoría. 
 
     .row.justify-content-center.z-2
@@ -202,7 +202,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/7.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Las tipologías de prospectos permiten organizar el trabajo comercial y orientar los esfuerzos hacia aquellos clientes con mayores posibilidades de establecer relaciones comerciales.
 
     separador
@@ -253,7 +253,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/11.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p.mb-0 La clasificación de las personas nunca debe convertirse en una forma de exclusión. En el ámbito comercial, categorizar clientes significa organizar información para comprender mejor sus necesidades, actuando siempre con objetividad, respeto y responsabilidad en el manejo de los datos.
 
 </template>

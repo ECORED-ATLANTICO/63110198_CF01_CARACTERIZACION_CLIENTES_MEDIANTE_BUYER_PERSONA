@@ -66,7 +66,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema10/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p.mb-0 Una empresa dedicada a la comercialización de equipos para automatización industrial definió como objetivo comercial fortalecer su presencia en pequeñas y medianas empresas manufactureras. A partir de este propósito reorganizó su proceso de segmentación, priorizó los prospectos con mayor afinidad y concentró sus actividades comerciales en organizaciones que respondían a ese objetivo estratégico. 
  
     .row.justify-content-center.z-2
@@ -101,7 +101,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/9.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 En contexto. 
+              h5 En contexto
               p Una empresa dedicada a la comercialización de soluciones para agricultura de precisión realizaba campañas comerciales dirigidas a todo el sector agrícola. Después de segmentar el mercado identificó que los productores de cultivos permanentes presentaban mayor afinidad con sus soluciones tecnológicas.  
               p.mb-0 Con base en esta información rediseñó su estrategia comercial, ajustó la comunicación, reorganizó las visitas del equipo comercial y concentró sus esfuerzos en ese segmento. Como resultado, mejoró la utilización de sus recursos y fortaleció la identificación de nuevas oportunidades comerciales. 
 
@@ -167,7 +167,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/11.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p.mb-0 Las mejores decisiones comerciales nacen del conocimiento, la responsabilidad y el respeto por las personas. Comprender el mercado no significa aprovecharse de los consumidores, sino identificar oportunidades para generar valor mediante relaciones comerciales transparentes, sostenibles y fundamentadas en la confianza. 
 
 

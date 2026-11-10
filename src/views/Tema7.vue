@@ -100,7 +100,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/7.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Ninguna variable explica por sí sola el comportamiento del consumidor; su verdadero valor surge cuando se analizan de manera complementaria. 
 
     separador
@@ -123,7 +123,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/9.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 En contexto. 
+              h5 En contexto
               p Una empresa dedicada a la comercialización de equipos para energías renovables deseaba identificar nuevas oportunidades de negocio en el sector empresarial.  
               p Para ello integró variables demográficas relacionadas con el tamaño de las organizaciones, variables geográficas asociadas con la ubicación de las plantas de producción, variables psicográficas vinculadas al interés por la sostenibilidad y variables conductuales derivadas del comportamiento observado durante las visitas comerciales.  
               p.mb-0 La combinación de estas variables permitió construir segmentos más representativos y facilitó la identificación de clientes potenciales con mayor afinidad hacia la oferta de la empresa. 
@@ -145,7 +145,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/11.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p.mb-0 Comprender las diferencias entre las personas no debe conducir a la exclusión, sino al reconocimiento de la diversidad. En el ámbito comercial, segmentar implica analizar con objetividad y respeto las características del mercado para ofrecer soluciones pertinentes y generar relaciones basadas en la confianza. 
 
 

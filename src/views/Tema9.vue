@@ -136,7 +136,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/7.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Una estrategia de prospectación es efectiva cuando orienta el trabajo comercial hacia oportunidades previamente analizadas y no hacia mercados abordados de manera indiscriminada. 
 
 
@@ -220,7 +220,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/9.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 En contexto. 
+              h5 En contexto
               p Una empresa dedicada a la comercialización de maquinaria para la industria alimentaria había identificado más de cien clientes potenciales durante una feria empresarial. Sin embargo, su equipo comercial contaba con recursos limitados para realizar seguimiento a todos ellos de manera simultánea.
               p.mb-0 Para organizar el trabajo estableció criterios de priorización relacionados con la afinidad entre las necesidades del cliente y su portafolio, la información recopilada durante los encuentros comerciales, el potencial de desarrollo de cada oportunidad y los objetivos comerciales definidos para el trimestre. Gracias a esta organización, el equipo concentró inicialmente sus esfuerzos en las oportunidades con mayor probabilidad de avanzar dentro del proceso comercial. 
 
@@ -232,7 +232,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/11.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p.mb-0 Administrar adecuadamente las prioridades es una expresión de responsabilidad profesional. En el ámbito comercial, priorizar con criterios objetivos permite utilizar los recursos de manera ética, transparente y orientada a generar valor tanto para la organización como para sus clientes. 
 
 

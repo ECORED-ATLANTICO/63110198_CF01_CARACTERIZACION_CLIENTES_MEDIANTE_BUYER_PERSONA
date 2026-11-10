@@ -35,7 +35,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/7.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Identificar clientes potenciales no consiste en llegar a más personas, sino en reconocer aquellas que realmente representan una oportunidad comercial para la organización. 
 
     separador
@@ -89,7 +89,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema10/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p.mb-0 Una empresa especializada en servicios de capacitación para organizaciones deseaba ampliar su base de clientes. Después de revisar la información de quienes habían contratado sus servicios durante los últimos años, encontró que la mayoría correspondía a empresas con procesos permanentes de formación, equipos de trabajo superiores a cincuenta colaboradores y responsables de talento humano interesados en fortalecer competencias laborales. Con base en este análisis redefinió sus acciones comerciales y mejoró significativamente la efectividad de las campañas dirigidas a nuevos prospectos.
 
     separador
@@ -110,7 +110,7 @@
               figure
                 img.imgw-130.mb-4.mb-lg-0(src="@/assets/curso/tema2/stats.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 En contexto. 
+              h5 En contexto
               p Una empresa dedicada a la venta de mobiliario ergonómico identificó que muchos clientes buscaban mejorar las condiciones de trabajo desde casa. Más que adquirir una silla, los consumidores necesitaban comodidad, bienestar y prevención de problemas posturales. Comprender esta necesidad permitió fortalecer el enfoque de las campañas comerciales y mejorar los resultados de ventas. 
 
     .row.justify-content-center.z-2
@@ -144,7 +144,7 @@
               figure
                 img.imgw-130.mb-4.mb-lg-0(src="@/assets/curso/tema2/stats.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 En contexto. 
+              h5 En contexto
               p Una empresa dedicada a la comercialización de bicicletas eléctricas descubrió que muchos compradores no estaban motivados únicamente por reducir tiempos de desplazamiento. Un número importante valoraba la posibilidad de contribuir con el cuidado del medio ambiente y mejorar su calidad de vida mediante un medio de transporte sostenible. Esta información permitió fortalecer el mensaje comercial y conectar mejor con las expectativas de sus clientes. 
 
     .row.justify-content-center.z-2.mb-5
@@ -179,7 +179,7 @@
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/7.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Las organizaciones generan mayor valor cuando comprenden las razones que impulsan la decisión de compra y no únicamente las necesidades que manifiestan sus clientes. 
 
     separador
@@ -201,7 +201,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema10/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p Una organización especializada en la venta de instrumentos musicales deseaba ampliar su base de clientes. Después de analizar la información recopilada durante eventos y ferias comerciales identificó que una parte importante de los visitantes mostraba interés por la producción musical digital y el aprendizaje autodidacta. 
               p.mb-0 La empresa reorganizó su oferta, incorporó nuevos productos y desarrolló contenidos dirigidos a estos intereses. Como resultado, logró atraer nuevos clientes potenciales y fortalecer su posicionamiento en este segmento del mercado. 
 
@@ -236,7 +236,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/9.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 En contexto. 
+              h5 En contexto
               p.mb-0 Una empresa dedicada a la comercialización de electrodomésticos observó que muchos clientes consultaban previamente reseñas, comparaban precios y analizaban características técnicas antes de realizar una compra. A partir de este comportamiento fortaleció la información disponible en su sitio web, incorporó comparativos de productos y mejoró los canales de atención virtual, facilitando el proceso de decisión del consumidor. 
 
     .row.justify-content-center.z-2.mb-5
@@ -272,7 +272,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/11.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p.mb-0 Conocer al cliente implica una gran responsabilidad. La información obtenida durante los procesos comerciales debe utilizarse con honestidad, respeto y sentido ético, procurando generar valor para las personas y construir relaciones de confianza que beneficien tanto al consumidor como a la organización. 
 
       

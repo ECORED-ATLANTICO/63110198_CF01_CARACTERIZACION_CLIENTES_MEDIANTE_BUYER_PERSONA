@@ -72,7 +72,7 @@
         div.banner-text.shadow.bg-terciario-t5.mb-3
           p.mb-0 El comportamiento del consumidor está influenciado por múltiples factores que actúan de manera simultánea durante el proceso de decisión de compra. Algunos provienen del propio individuo, como sus necesidades, motivaciones o experiencias, mientras que otros corresponden al entorno social, económico y cultural en el que desarrolla sus actividades. Comprender esta interacción permite interpretar con mayor precisión las razones que explican las decisiones de consumo. 
 
-    .row.justify-content-center.cursor-pointer.z-2
+    .row.justify-content-center.cursor-pointer.z-2.mb-5
       .col-sm-9.col-lg-6.col-xl-5.mb-4.mb-xl-0
         .crd_hover_txt
           .indicador--hover
@@ -91,22 +91,22 @@
             h4.mb-4 Los factores externos corresponden a las condiciones del entorno que influyen sobre el comportamiento de compra
             p.mb-0 La familia, los grupos sociales, la cultura, la situación económica, la publicidad y las tendencias del mercado son algunos elementos que pueden modificar las preferencias del consumidor. Analizar estos factores facilita la construcción de estrategias comerciales más ajustadas al contexto en el que participan los clientes. 
 
-    separador
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.3 Proceso de decisión de compra
-
-    p.mb-5.z-2 El proceso de decisión de compra describe las etapas que recorre un consumidor desde el momento en que identifica una necesidad hasta la evaluación posterior a la adquisición de un producto o servicio. Comprender este proceso permite interpretar cómo se construyen las decisiones de consumo y facilita el diseño de estrategias comerciales que respondan oportunamente a las expectativas del mercado. 
-
     .fullwidth-bg.fullwidth-bg--2
-    .row.justify-content-center.mb-5.z-2
+    .row.justify-content-center.z-2
       .col-xl-10.bg-contenido-a5.rounded-4.p-4.p-lg-0
         .row.justify-content-center.align-items-center
           .col-lg-2.d-none.d-lg-block
             figure
               img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/7.png", alt="" data-aos="fade-up")
           .col-lg-10
-            h5 Clave estratégica. 
+            h5 Clave estratégica
             p.mb-0 Comprender simultáneamente los factores internos y externos permite interpretar el comportamiento del consumidor desde una perspectiva integral y desarrollar estrategias comerciales más pertinentes. 
+
+    separador
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.3 Proceso de decisión de compra
+
+    p.mb-5.z-2 El proceso de decisión de compra describe las etapas que recorre un consumidor desde el momento en que identifica una necesidad hasta la evaluación posterior a la adquisición de un producto o servicio. Comprender este proceso permite interpretar cómo se construyen las decisiones de consumo y facilita el diseño de estrategias comerciales que respondan oportunamente a las expectativas del mercado. 
 
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Figura 1.
@@ -145,7 +145,7 @@
               figure
                 img.imgw-145.mb-4.mb-lg-0(src="@/assets/curso/tema10/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Ejemplo aplicado. 
+              h5 Ejemplo aplicado
               p.mb-0 Una empresa dedicada a la comercialización de alimentos para mascotas observó que muchos clientes realizaban compras mensuales coincidiendo con las fechas de pago de salarios. A partir de esta información desarrolló campañas promocionales en esos periodos, ajustó la disponibilidad de inventario y fortaleció los canales digitales para facilitar la compra recurrente. Estas acciones permitieron incrementar la frecuencia de compra y mejorar la satisfacción de los consumidores. 
 
     separador
@@ -196,7 +196,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/11.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p.mb-0 La integridad en el análisis del consumidor consiste en comprender a las personas para generar valor y satisfacer sus necesidades, nunca para manipular sus decisiones. Las estrategias comerciales sostenibles se construyen sobre el respeto, la transparencia y el compromiso con el cliente.
 
 </template>

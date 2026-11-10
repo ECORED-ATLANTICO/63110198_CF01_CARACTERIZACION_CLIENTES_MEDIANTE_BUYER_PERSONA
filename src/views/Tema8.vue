@@ -107,7 +107,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/9.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 En contexto. 
+              h5 En contexto
               p Una empresa dedicada a la comercialización de alimentos saludables participaba en el mercado de productos alimenticios en general. Después de analizar las características de sus consumidores identificó un grupo conformado por personas interesadas en alimentación natural, productos sin azúcar y estilos de vida saludables. 
               p.mb-0 Este grupo representó un nicho de mercado claramente diferenciado, permitiendo desarrollar una oferta comercial más especializada y una comunicación ajustada a sus intereses.  
 
@@ -169,7 +169,7 @@
               figure
                 img.imgw-155.mb-4.mb-lg-0(src="@/assets/curso/tema7/11.png", alt="" data-aos="zoom-in-down")
             .col-lg-10
-              h5 Reflexión del capítulo.  
+              h5 Reflexión del capítulo
               p.mb-0 Toda decisión comercial implica elegir prioridades. Cuando esa elección se fundamenta en información objetiva y en el respeto por las necesidades de las personas, las organizaciones construyen relaciones más transparentes y sostenibles con sus clientes. 
 
 </template>
