@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p El Componente Formativo Inteligencia del cliente ofrece al aprendiz los fundamentos conceptuales necesarios para comprender cómo las organizaciones identifican clientes potenciales mediante el análisis del comportamiento del consumidor, la utilización de fuentes de información, la categorización de clientes, el perfilamiento comercial y la segmentación del mercado. Estos conocimientos permiten interpretar las características de los consumidores y reconocer oportunidades que apoyan la toma de decisiones dentro de los procesos comerciales.
+    p El componente formativo Inteligencia del cliente ofrece al aprendiz los fundamentos conceptuales necesarios para comprender cómo las organizaciones identifican clientes potenciales mediante el análisis del comportamiento del consumidor, la utilización de fuentes de información, la categorización de clientes, el perfilamiento comercial y la segmentación del mercado. Estos conocimientos permiten interpretar las características de los consumidores y reconocer oportunidades que apoyan la toma de decisiones dentro de los procesos comerciales.
 
     p.mb-5 Asimismo, el componente integra los conceptos de mercado objetivo, prospectación y estrategia comercial como elementos que orientan la identificación y priorización de clientes potenciales. De esta manera, el aprendiz fortalece su capacidad para analizar información comercial, comprender la relación entre los diferentes procesos estudiados y construir una base sólida para el perfilamiento estratégico de clientes mediante metodologías de #[em buyer persona].
     

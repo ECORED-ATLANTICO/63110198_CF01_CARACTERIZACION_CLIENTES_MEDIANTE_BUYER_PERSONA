@@ -56,7 +56,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/title-icon.png")
         h3.titulo-con-imagen__texto Tipos de mercado y su utilidad en el análisis comercial 
 
-    p.mb-5 Los mercados pueden diferenciarse según las características de quienes participan en ellos y las condiciones que determinan la demanda. Reconocer estos tipos permite comprender mejor a los posibles clientes, identificar oportunidades y orientar las decisiones comerciales. Consulte las siguientes tarjetas para conocer sus principales características. 
+    p.mb-5 Los mercados pueden diferenciarse según las características de quienes participan en ellos y las condiciones que determinan la demanda. Reconocer estos tipos permite comprender mejor a los posibles clientes, identificar oportunidades y orientar las decisiones comerciales. A continuación, sus principales características:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-6.col-lg-4.d-none.d-lg-block
@@ -81,6 +81,8 @@
               h5 Mercado potencial
               p Reúne consumidores que presentan características o condiciones que podrían llevarlos a convertirse en clientes de la organización. Su análisis permite identificar nuevas oportunidades comerciales y orientar las acciones de prospectación. 
               p.mb-0 #[strong Ejemplo:] personas que cumplen con el perfil definido para un servicio, pero que todavía no lo han adquirido. 
+
+    p.mb-4 Identificar el tipo de mercado permite comprender quién puede demandar la oferta y bajo qué condiciones, información que sirve de base para caracterizar clientes, reconocer oportunidades y orientar las estrategias comerciales. 
 
     .row.justify-content-center
       .col-xl-10

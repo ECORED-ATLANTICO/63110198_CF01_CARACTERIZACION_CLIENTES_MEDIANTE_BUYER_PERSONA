@@ -222,11 +222,10 @@
               figure
                 img.imgw-190.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="")
             .col-sm-8.col-lg-8
-              p A continuación, lo invitamos a consultar el siguiente pódcast:
               TarjetaAudio.mb-3(
-                texto="Actuar, verificar y mejorar: seguimiento de brotes en entornos penitenciarios"
+                texto="Perfilamiento comercial estratégico"
                 tiempo
-                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                :audio="require_src('@/assets/curso/podcast/63110198_CF01_Podcast_01.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false")
     
 </template>

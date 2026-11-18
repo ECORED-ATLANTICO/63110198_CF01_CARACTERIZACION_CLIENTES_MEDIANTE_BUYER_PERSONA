@@ -73,9 +73,9 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema6/4.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
-        p La importancia de la segmentación de mercados radica en su capacidad para facilitar la comprensión del mercado y orientar las acciones comerciales hacia grupos de clientes con características semejantes. Este proceso fortalece la identificación de oportunidades comerciales y contribuye al aprovechamiento eficiente de los recursos organizacionales.  
+        p Los objetivos de la segmentación están relacionados con la necesidad de comprender mejor la diversidad existente entre los consumidores. Al reconocer que los clientes presentan necesidades, intereses y comportamientos diferentes, las organizaciones pueden desarrollar procesos de análisis más precisos y orientar sus estrategias comerciales hacia grupos con mayor afinidad respecto a su oferta; asimismo, la segmentación contribuye al fortalecimiento de la planeación comercial.
         .bg-secundario-s10.p-4.rounded-4.py-3
-          p.mb-0 Al segmentar un mercado, las organizaciones pueden analizar con mayor precisión las necesidades, intereses y comportamientos de los diferentes grupos de consumidores. Esta información permite fundamentar las decisiones comerciales y favorece la construcción de estrategias coherentes con las características del mercado objetivo. 
+          p.mb-0 La información obtenida durante este proceso permite priorizar oportunidades, optimizar la utilización de recursos y construir bases sólidas para el desarrollo de actividades posteriores como el perfilamiento comercial y la prospectación de clientes potenciales. 
  
     .fullwidth-bg.fullwidth-bg--1
     .row.justify-content-center.z-2.mb-5
@@ -148,10 +148,12 @@
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Segmentación de mercados 
                   p.mb-0 Lo invitamos a consultar el siguiente video para profundizar en el proceso de segmentación de mercados, sus tipos y su importancia para orientar estrategias comerciales más efectivas.
-                .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=rndPdop69X0" target="_blank")
-                    span Ir al recurso
-                    i.fas.fa-file-download
+
+    .row.justify-content-center.mb-4
+      .col-xl-10
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/rndPdop69X0" title="Segmentación de mercados" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.mb-4
       .col-xl-10

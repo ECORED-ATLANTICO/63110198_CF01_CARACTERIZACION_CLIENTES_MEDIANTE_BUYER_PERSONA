@@ -34,7 +34,7 @@
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema1/3.png", alt="")
 
-    .row.justify-content-center.z-2.mb-4
+    .row.justify-content-center.z-2.mb-5
       .col-xl-10
         .tarjeta.bg-secundario-s5.p-4.py-3
           .row.justify-content-around.align-items-center
@@ -46,10 +46,12 @@
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Comportamiento del consumidor 
                   p.mb-0 Lo invitamos a consultar el siguiente video del Ecosistema de Recursos Educativos Digitales del SENA, que explica la importancia de conocer el consumidor, identificar segmentos de mercado y comprender el público objetivo como base para el diseño de estrategias comerciales. 
-                .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=dhSD-ndBs6g" target="_blank")
-                    span Ir al recurso
-                    i.fas.fa-file-download
+
+    .row.justify-content-center.mb-4
+      .col-xl-10
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/dhSD-ndBs6g" title="Comportamiento del consumidor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center
       .col-xl-10

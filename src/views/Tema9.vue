@@ -34,7 +34,7 @@
         div.banner-text.shadow.bg-secundario-s5.mb-2
           p.mb-0 La prospectación comercial corresponde al proceso mediante el cual una organización identifica clientes potenciales que presentan características compatibles con su oferta y con sus objetivos comerciales. Este proceso se fundamenta en el análisis de la información del mercado y constituye una etapa esencial para orientar los esfuerzos comerciales hacia oportunidades con mayor posibilidad de desarrollo. 
 
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-4
       .col-xl-10
         .tarjeta.bg-secundario-s5.p-4.py-3
           .row.justify-content-around.align-items-center
@@ -46,10 +46,12 @@
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Prospección de clientes 
                   p.mb-0 Lo invitamos a consultar el siguiente video, en el que encontrará #[strong recomendaciones prácticas para la prospección de clientes], orientadas al análisis de clientes potenciales, la planificación de estrategias comerciales y el seguimiento de oportunidades de negocio. 
-                .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=50E2sAVgx5c" target="_blank")
-                    span Ir al recurso
-                    i.fas.fa-file-download
+
+    .row.justify-content-center.mb-4
+      .col-xl-10
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/50E2sAVgx5c" title="Recomendaciones prácticas para la prospección de clientes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
     #t_9_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
