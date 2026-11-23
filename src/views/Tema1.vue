@@ -113,7 +113,7 @@
     .titulo-sexto.color-acento-contenido.mb-4.z-2
       h5 Figura 1.
       span Etapas del proceso de decisión de compra
-    img.mb-5.z-2(data-aos="fade-up", src="@/assets/curso/tema1/8.png", alt="La figura muestra los cuatro tipos de kilates de oro que se presentan en joyería.")
+    img.mb-5.z-2(data-aos="fade-up", src="@/assets/curso/tema1/8.png", alt="La figura 1 describe las etapas del proceso de decisión de compra. Dentro de esas etapas se encuentran el reconocimiento de la necesidad, la búsqueda de la información, evaluación de alternativas, decisión de compra, y evaluación posterior.")
 
     .row.justify-content-center.z-2
       .col-xl-10

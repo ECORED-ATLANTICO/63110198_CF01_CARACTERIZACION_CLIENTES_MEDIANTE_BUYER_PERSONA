@@ -69,7 +69,7 @@
                 td(colspan="3") Ha manifestado interés por conocer la oferta comercial, pero aún requiere mayor información para evaluar alternativas.
               tr(style="background-color: #E9EEF5")
                 td #[strong Prospecto calificado]
-                td(colspan="3") Cumple características compatibles con la oferta y presenta condiciones favorables para continuar el proceso comercial.
+                td(colspan="3") Cumple con características compatibles con la oferta y presenta condiciones favorables para continuar el proceso comercial.
               tr(style="background-color: #FFFFFF")
                 td #[strong Prospecto prioritario]
                 td(colspan="3") Reúne las condiciones que representan una alta oportunidad para avanzar hacia una posible conversión comercial.

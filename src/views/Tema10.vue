@@ -143,7 +143,7 @@
     .row.justify-content-center.mb-4.align-items-center
       .col-lg-5
         .bg-secundario-s20.p-4.rounded-4.py-lg-5.mb-4.mb-lg-0
-          p.mb-0 Lo invitamos a consultar el podcast #[strong “Estrategia comercial para la competitividad”], en el que podrá profundizar en la importancia de integrar el análisis del mercado, la planificación y el seguimiento para orientar las decisiones comerciales y fortalecer la competitividad de la organización. 
+          p.mb-0 Lo invitamos a consultar el pódcast #[strong “Estrategia comercial para la competitividad”], en el que podrá profundizar en la importancia de integrar el análisis del mercado, la planificación y el seguimiento para orientar las decisiones comerciales y fortalecer la competitividad de la organización. 
       .col-lg-7
         .bg-audio.rounded-4.px-4.py-4.py-lg-0
           .row.align-items-center.justify-content-center

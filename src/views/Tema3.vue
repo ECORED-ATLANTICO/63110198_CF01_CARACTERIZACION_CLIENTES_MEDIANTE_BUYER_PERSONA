@@ -101,25 +101,25 @@
             .row.justify-content-center.mb-3
               .col-6.col-sm-4.col-xl-5
                 img.imgw-95(src='@/assets/curso/tema3/6.png' alt='')
-            h5.mb-4.text-center Actividad económica. 
+            h5.mb-4.text-center Actividad económica
             p.mb-0 Permite agrupar organizaciones o personas según el sector donde desarrollan sus actividades comerciales o productivas, facilitando la identificación de necesidades, oportunidades y características particulares de cada segmento. 
           .tarjeta.tarjeta--gris.p-4.pt-5.bg-sistema-h
             .row.justify-content-center.mb-3
               .col-6.col-sm-4.col-xl-5
                 img.imgw-95(src='@/assets/curso/tema3/7.png' alt='')
-            h5.mb-4.text-center Tamaño de la organización. 
+            h5.mb-4.text-center Tamaño de la organización
             p.mb-0 Facilita diferenciar clientes potenciales considerando su capacidad operativa y nivel de desarrollo empresarial, así como variables como número de empleados, volumen de operaciones, infraestructura y capacidad de inversión. 
           .tarjeta.tarjeta--gris.p-4.pt-5.bg-sistema-h
             .row.justify-content-center.mb-3
               .col-6.col-sm-4.col-xl-5
                 img.imgw-95(src='@/assets/curso/tema3/8.png' alt='')
-            h5.mb-4.text-center Frecuencia de interacción. 
+            h5.mb-4.text-center Frecuencia de interacción
             p.mb-0 Organiza los clientes según la periodicidad con la que establecen contacto con la organización, permitiendo identificar niveles de relacionamiento y definir estrategias de comunicación y seguimiento más efectivas. 
           .tarjeta.tarjeta--gris.p-4.pt-5.bg-sistema-h
             .row.justify-content-center.mb-3
               .col-6.col-sm-4.col-xl-5
                 img.imgw-95(src='@/assets/curso/tema3/9.png' alt='')
-            h5.mb-4.text-center Ubicación geográfica. 
+            h5.mb-4.text-center Ubicación geográfica
             p.mb-0 Agrupa clientes potenciales considerando la zona donde desarrollan sus actividades o residen habitualmente, facilitando la planificación comercial, la cobertura de servicios y la definición de estrategias de atención según las características de cada territorio. 
       .col-lg-4.d-none.d-lg-block
         figure
